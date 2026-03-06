@@ -1,9 +1,19 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Eunhee%20Jo&fontSize=40)
 
 # 👋 Hello, I'm Eunhee Cho
 
-IT Infrastructure Administrator  
-Kyung Hee University 
+💻 IT Infrastructure Administrator
+Kyung Hee University – Information Planning Team
+
+I manage and operate university IT infrastructure including Linux servers, virtualization environments, WAS systems, and security compliance.
+
+🧑‍💻 About Me
+
+🏫 IT Administrator at Kyung Hee University
+
+🖥 Managing Linux / WAS / Virtualization Infrastructure
+
+⚙️ Interested in system stability, automation, and infrastructure optimization
+
 
 ## 🖥️ My Work
 
@@ -32,5 +42,5 @@ Kyung Hee University
 
 ## 📫 Contact
 
-Email : cehgineer@gmail.com 
+born Email : cehgineer@gmail.com 
 Email : ehcho@khu.ac.kr
