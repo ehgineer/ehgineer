@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hello, I'm Eunhee Cho
 
-<!--
-**ehgineer/ehgineer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT Infrastructure Administrator  
+Kyung Hee University 
 
-Here are some ideas to get you started:
+## 🖥️ My Work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Linux Server Administration
+- VMware / vSphere Virtualization
+- JEUS WAS Management
+- System Security & ISMS Compliance
+- DNS / Domain Management
+
+## 🔧 Technologies
+
+- Linux (Rocky, RedHat, Solaris)
+- VMware ESXi / vCenter
+- JEUS WAS
+- Apache / Nginx
+- Shell Script
+- Network & DNS
+
+## 📂 Projects
+
+- Personal Information Access Log System Deployment
+- Portal Server Agent Installation (Infosafer)
+- JEUS WAS Log & Heapdump Analysis
+- University Domain Management
+- Server Security Hardening (ISMS)
+
+## 📫 Contact
+
+Email : cehgineer@gmail.com 
+Email : ehcho@khu.ac.kr
